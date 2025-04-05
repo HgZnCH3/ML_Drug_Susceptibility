@@ -1,0 +1,11 @@
+BCh: Breast Cancer's hydrothorax
+BCp: Breast Cancer punch biopsy
+CCom: Colorectal Cancer ovarian metastases
+GC: Gastric Cancer
+GCa: Gastric Cancer's ascites
+KC: Kidney Cancer
+LCh: Lung Cancer's hydrothorax
+OCh: Ovarian Cancer's hydrothorax
+PaC: Pancreatic Cancer
+STS: Soft Tissue Sarcoma
+
