@@ -25,4 +25,4 @@ Note: These data have been processed and standardized.
 **Export_figures_directory**: '..\Result_Figures', in this folder, there are pictures of the performance (ROC & confusion matrix) of these machine learning algorithms.
 
 
-(Updatad 2025-April-05)
+(Updated 2025-April-05)
